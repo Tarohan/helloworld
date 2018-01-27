@@ -1,2 +1,2 @@
-# cording utf-8
+# coding: utf-8
 print(u'hello')
